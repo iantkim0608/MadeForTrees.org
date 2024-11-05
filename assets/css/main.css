@@ -3441,7 +3441,7 @@ input, select, textarea {
 /* Page Wrapper + Menu */
 
 	#page-wrapper {
-		background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url(images/banner(1)(1).jpeg); 
+		background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url(images/banner(1).jpeg); 
 		-moz-transition: opacity 0.5s ease;
 		-webkit-transition: opacity 0.5s ease;
 		-ms-transition: opacity 0.5s ease;
@@ -3451,7 +3451,7 @@ input, select, textarea {
 	}
 
 		#page-wrapper:before {
-			background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url(images/banner(1).png); 
+			background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url(images/banner(1).jpeg); 
 			content: '';
 			display: block;
 			display: none;
@@ -3881,7 +3881,7 @@ input, select, textarea {
 		}
 
 			#banner(1) .more:after {
-				background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url(images/banner(1).png); 
+				background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url(images/banner(1).jpeg); 
 				/*background-image: url("images/arrow.svg");*/
 				background-position: center;
 				background-repeat: no-repeat;
@@ -4040,10 +4040,10 @@ input, select, textarea {
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner(1).png");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner(1).png");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner(1).png");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner(1).png");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner(1).jpeg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner(1).jpeg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner(1).jpeg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner(1).jpeg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -4190,10 +4190,10 @@ input, select, textarea {
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner(1).png");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner(1).png");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner(1).png");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner(1).png");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner(1).jpeg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner(1).jpeg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner(1).jpeg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner(1).jpeg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
